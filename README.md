@@ -11,7 +11,7 @@ All notebooks run in [Google Colaboratory](https://colab.research.google.com) (i
 
 ## Sequence Pattern Generator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/MidiGenerators/blob/main/SequencePatternGenerator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/MidiTurmoil/blob/main/SequencePatternGenerator.ipynb)
 
 Sequence Pattern Generator outputs two kinds of DAW-ready randomized midi notations based on given chord progression (or individual chord), octaves, randomized velocities etc. Preview players are provided inside the notebook.
 
